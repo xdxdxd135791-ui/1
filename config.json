@@ -1,0 +1,8 @@
+{
+"model": "models/people.pt",
+"camera_id": 0,
+"confidence": 0.45,
+"line_x": 320,
+"width": 640,
+"height": 360
+}

@@ -1,0 +1,5 @@
+ultralytics==8.4.58
+opencv-python==4.13.0.92
+customtkinter==5.2.2
+pillow==12.2.0
+numpy==2.4.6
